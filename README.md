@@ -1,108 +1,97 @@
-<div align="center">
+# 👋 Hi, I'm Marco (HighMark)
 
-# 👋 Welcome to HighMark's GitHub
+**CEO & Founder @ [YecoAI](https://yecoai.com) | Full-Stack Developer & AI Engineer**
 
-### **Full-Stack Developer | AI Engineer | Cybersecurity Enthusiast**
-
-**📌 CEO @ EnderDevelopment** | **📍 Founder @ YecoAI** | **🧷 AI Architect**
-
-*Building intelligent systems, securing networks, and scaling businesses through code.*
+[![GitHub followers](https://img.shields.io/github/followers/HighMark-31?label=Follow&style=social)](https://github.com/HighMark-31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/marco-nasi-it)
+[![Website](https://img.shields.io/badge/Website-highmark.it-blueviolet)](https://highmark.it)
+[![Twitter](https://img.shields.io/badge/Twitter-@HighMark_MarcoN-1DA1F2)](https://twitter.com/HighMark_MarcoN)
 
 ---
 
-</div>
-
 ## 🚀 About Me
 
-I'm Marco, a 18-year veteran in IT with deep expertise in **full-stack development**, **AI/ML engineering**, and **cybersecurity**. I thrive on solving complex problems and turning ideas into production-grade solutions.
+I'm Marco, an 18‑year‑old Italian developer and entrepreneur.  
+I build **production‑grade AI systems**, lead **YecoAI** (an AI research & product company), and design secure, scalable architectures.
 
-**What I do:**
-- 🤖 **Design & Deploy AI Agents** - From LLM orchestration to autonomous workflows
-- 🧠 **Prompt Engineering & LLM Optimization** - Crafting high-performance AI chains
-- 🏗️ **Full-Stack Architecture** - Frontend to backend, database to deployment
-- 🔐 **Cybersecurity Solutions** - Penetration testing, security toolkits, network analysis
-- 🎮 **Game Server Infrastructure** - Minecraft, FiveM, and custom game development
-- 📊 **Data Engineering** - ETL pipelines, analytics, real-time processing
+**What I do today:**
+-  **CEO & Founder @ YecoAI** – Autonomous agents, LLM behavior, AI infrastructure.
+-  **Research & Engineering** – Structured prompt injection (SSPI Whitepaper, Feb 2026), deterministic LLM outputs.
+-  **Full‑Stack & AI** – React, Next.js, Python, Go, LangChain, PostgreSQL, and cloud-native deployments.
+-  **Cybersecurity** – Security‑first design, penetration testing, network analysis.
+
+**Recent highlights:**
+- 🏆 **DigithON 2026 Finalist** – Selected among top 100 Italian startups.
+- 💰 **Invitalia Grant** – €18.200 funding for YecoAI.
+- 📜 **AI Act Compliance** – Published our stance on realistic labeling for LLM‑generated text.
 
 ---
 
 ## 💻 Tech Stack
 
-<img width="2306" height="888" alt="Profile_Banner_final" src="https://github.com/user-attachments/assets/c2bde71c-8fb6-4a21-bd41-565be0a1f5ff" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
-## 🎯 Key Projects & Initiatives
+## 📌 Key Projects
 
-<table align="center">
-<tr>
-<td align="center">
-
-### YecoAI
-[![Website](https://img.shields.io/badge/Website-Visit-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yecoai.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Go-16a34a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YecoAI)
-
-</td>
-<td align="center">
-
-### EnderDevelopment
-[![Website](https://img.shields.io/badge/Website-Visit-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://enderdevelopment.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Go-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnderDevelopment)
-
-</td>
-<td align="center">
-
-### CyberKit
-[![Website](https://img.shields.io/badge/Website-Visit-dc2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyberkit.mylaby.space)  
-[![GitHub](https://img.shields.io/badge/GitHub-Go-dc2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HighMark-31/CyberKit)
-
-</td>
-</tr>
-</table>
+| Repository | Description |
+|------------|-------------|
+| [**TRAE-Agents**](https://github.com/HighMark-31/TRAE-Agents) | Collection of specialized AI agents for software dev, frontend, backend, automation, UI/UX, SEO, and DevOps. Ready‑to‑use generators and workflows. |
+| [**TRAE-Skills**](https://github.com/HighMark-31/TRAE-Skills) | 150+ focused AI skills for code generation, templates, scripts, and advanced orchestration. |
+| [**TRAE-Tips**](https://github.com/HighMark-31/TRAE-Tips) | Curated best practices, optimization strategies, and community contributions for the TRAE ecosystem. |
+| [**fossbilling-theme-modern**](https://github.com/HighMark-31/fossbilling-theme-modern) | Clean, modern, responsive theme for FOSSBilling – elegant UI and improved UX. |
+| [**Discord-Bot-Server-Backup**](https://github.com/HighMark-31/Discord-Bot-Server-Backup) | Powerful Discord bot that automatically backs up messages, media, roles, and member data. |
+| [**TICU**](https://github.com/HighMark-31/TICU) | A vision for how startups can scale globally by creating what doesn't exist yet and making it accessible to everyone. |
 
 ---
 
-## 📈 GitHub Statistics
+## 🏅 Achievements
 
-<div align="center">
-
-![Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=HighMark-31&theme=vue-dark&hide_border=false)
-
-</div>
+- **DigithON 2026** – Top 100 finalist (Italy's largest digital marathon).
+- **Invitalia Grant** – €18.200 funding for YecoAI (ACN measure).
+- **AI Act Compliance** – Published official position on responsible AI labeling.
+- **Open Source Contributor** – Active in the TRAE community and other OSS projects.
 
 ---
 
 ## 🌐 Connect & Collaborate
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-HighMark.IT-blue?style=for-the-badge&logo=globe)](https://highmark.it)
-[![Instagram](https://img.shields.io/badge/Instagram-@highmark_it-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/highmark_it)
-[![Email](https://img.shields.io/badge/Email-mark@enderdevelopment.com-D14836?style=for-the-badge&logo=gmail)](mailto:mark@enderdevelopment.com)
-[![PayPal](https://img.shields.io/badge/Support_Me-PayPal-0070BA?style=for-the-badge&logo=paypal)](https://paypal.me/highmark31)
-
-</div>
+- **Website**: [highmark.it](https://highmark.it)
+- **LinkedIn**: [Marco Nasi](https://linkedin.com/in/marco-nasi-it)
+- **Discord**: `highmark_31`
+- **Telegram**: `@HighMark31`
 
 ---
 
 ## 📖 Philosophy
 
-> *"Code is poetry. AI is the future. Security is not optional."*
+> *“Code is poetry. AI is the future. Security is not optional.”*
 
 I believe in:
-- **Quality over Quantity** - Well-architected, maintainable code
-- **Continuous Learning** - Staying ahead of tech trends
-- **Security First** - Building with security as a core principle
-- **Collaboration** - Open source contributions and community engagement
-- **Innovation** - Exploring cutting-edge technologies like AI agents and LLMs
+- **Quality over Quantity** – Well‑architected, maintainable code.
+- **Continuous Learning** – Staying ahead of tech trends.
+- **Security First** – Building with security as a core principle.
+- **Collaboration** – Open source contributions and community engagement.
+- **Innovation** – Exploring cutting‑edge technologies like AI agents and LLMs.
 
+---
 
-<div align="center">
+## ⭐ Let's build something amazing together!
 
-### 🌟 Let's build something amazing together!
-
-**Open to collaborations on AI, web development, and cybersecurity projects.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-HighMark--31-181717?style=for-the-badge&logo=github)](https://github.com/HighMark-31)
-
-</div>
+I'm open to collaborations on **AI**, **web development**, and **cybersecurity** projects.  
+Feel free to reach out!
