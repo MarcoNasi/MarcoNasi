@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marco (HighMark)
+# 👋 Hi, I'm Marco Nasi (HighMark)
 
 **CEO & Founder @ [YecoAI](https://yecoai.com) | Full-Stack Developer & AI Engineer**
 
