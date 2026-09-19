@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Marco Nasi (HighMark)
+# 👋 Hi, I'm Marco Nasi
 
 **CEO & Founder @ [YecoAI](https://yecoai.com) | Full-Stack Developer & AI Engineer**
 
-[![GitHub followers](https://img.shields.io/github/followers/HighMark-31?label=Follow&style=social)](https://github.com/HighMark-31)
+[![GitHub followers](https://img.shields.io/github/followers/MarcoNasi?label=Follow&style=social)](https://github.com/MarcoNasi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/marco-nasi-it)
 [![Website](https://img.shields.io/badge/Website-highmark.it-blueviolet)](https://highmark.it)
-[![Twitter](https://img.shields.io/badge/Twitter-@HighMark_MarcoN-1DA1F2)](https://twitter.com/HighMark_MarcoN)
+[![Twitter](https://img.shields.io/badge/Twitter-@MarcoNasi_IT-1DA1F2)](https://twitter.com/MarcoNasi_IT)
 
 ---
 
@@ -51,12 +51,12 @@ I build **production‑grade AI systems**, lead **YecoAI** (an AI research & pro
 
 | Repository | Description |
 |------------|-------------|
-| [**TRAE-Agents**](https://github.com/HighMark-31/TRAE-Agents) | Collection of specialized AI agents for software dev, frontend, backend, automation, UI/UX, SEO, and DevOps. Ready‑to‑use generators and workflows. |
-| [**TRAE-Skills**](https://github.com/HighMark-31/TRAE-Skills) | 150+ focused AI skills for code generation, templates, scripts, and advanced orchestration. |
-| [**TRAE-Tips**](https://github.com/HighMark-31/TRAE-Tips) | Curated best practices, optimization strategies, and community contributions for the TRAE ecosystem. |
-| [**fossbilling-theme-modern**](https://github.com/HighMark-31/fossbilling-theme-modern) | Clean, modern, responsive theme for FOSSBilling – elegant UI and improved UX. |
-| [**Discord-Bot-Server-Backup**](https://github.com/HighMark-31/Discord-Bot-Server-Backup) | Powerful Discord bot that automatically backs up messages, media, roles, and member data. |
-| [**TICU**](https://github.com/HighMark-31/TICU) | A vision for how startups can scale globally by creating what doesn't exist yet and making it accessible to everyone. |
+| [**TRAE-Agents**](https://github.com/MarcoNasi/TRAE-Agents) | Collection of specialized AI agents for software dev, frontend, backend, automation, UI/UX, SEO, and DevOps. Ready‑to‑use generators and workflows. |
+| [**TRAE-Skills**](https://github.com/HMarcoNasi/TRAE-Skills) | 150+ focused AI skills for code generation, templates, scripts, and advanced orchestration. |
+| [**TRAE-Tips**](https://github.com/MarcoNasi/TRAE-Tips) | Curated best practices, optimization strategies, and community contributions for the TRAE ecosystem. |
+| [**fossbilling-theme-modern**](https://github.com/MarcoNasi/fossbilling-theme-modern) | Clean, modern, responsive theme for FOSSBilling – elegant UI and improved UX. |
+| [**Discord-Bot-Server-Backup**](https://github.com/MarcoNasi/Discord-Bot-Server-Backup) | Powerful Discord bot that automatically backs up messages, media, roles, and member data. |
+| [**TICU**](https://github.com/MarcoNasi/TICU) | A vision for how startups can scale globally by creating what doesn't exist yet and making it accessible to everyone. |
 
 ---
 
