@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Marco Nasi
+# Marco Nasi
 
-**CEO & Founder @ [YecoAI](https://yecoai.com) | Full-Stack Developer & AI Engineer**
+**Founder & CEO @ [YecoAI](https://yecoai.com)** · Building reliable, secure LLM infrastructure
 
 [![GitHub followers](https://img.shields.io/github/followers/MarcoNasi?label=Follow&style=social)](https://github.com/MarcoNasi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/marco-nasi-it)
-[![Website](https://img.shields.io/badge/Website-highmark.it-blueviolet)](https://highmark.it)
-[![Twitter](https://img.shields.io/badge/Twitter-@MarcoNasi_IT-1DA1F2)](https://twitter.com/MarcoNasi_IT)
+[![Website](https://img.shields.io/badge/Website-yecoai.com-blueviolet)](https://yecoai.com)
+[![X](https://img.shields.io/badge/X-@HighMark__MarcoN-000000)](https://x.com/HighMark_MarcoN)
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm Marco, an 18‑year‑old Italian developer and entrepreneur.  
-I build **production‑grade AI systems**, lead **YecoAI** (an AI research & product company), and design secure, scalable architectures.
+I'm the founder and CEO of **YecoAI**, an Italian AI company. We build production‑grade, secure AI infrastructure: cognitive and security layers for LLMs, and AI agents for real-world operations.
 
 **What I do today:**
 -  **CEO & Founder @ YecoAI** – Autonomous agents, LLM behavior, AI infrastructure.
@@ -27,23 +26,9 @@ I build **production‑grade AI systems**, lead **YecoAI** (an AI research & pro
 
 ---
 
-## 💻 Tech Stack
+## 💻 Core Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+Python · TypeScript · Go · Next.js · PostgreSQL · Docker · AWS · LangChain
 
 ---
 
@@ -51,12 +36,14 @@ I build **production‑grade AI systems**, lead **YecoAI** (an AI research & pro
 
 | Repository | Description |
 |------------|-------------|
+| [**YecoAI Cognitive Layer**](https://github.com/YecoAI/YecoAI-Cognitive-Layer) | Lightweight layer detecting loops, amnesia and semantic degradation in LLM outputs. |
+| [**YecoAI Security Layer**](https://github.com/YecoAI/YecoAI-Security-Layer) | Deterministic, low-latency security layer for LLM inputs/outputs: DLP, injection filtering, sandbox guards. |
+| [**DeskNexo WHMCS Addon**](https://github.com/YecoAI/DeskNexo-WHMCS-Addon) | WHMCS integration for DeskNexo, YecoAI's AI support agent for hosting providers. |
+| [**SSPI Whitepaper**](https://github.com/MarcoNasi/SSPI-whitepaper) | Structured prompting protocols for deterministic LLM behavior without fine-tuning. |
 | [**TRAE-Agents**](https://github.com/MarcoNasi/TRAE-Agents) | Collection of specialized AI agents for software dev, frontend, backend, automation, UI/UX, SEO, and DevOps. Ready‑to‑use generators and workflows. |
-| [**TRAE-Skills**](https://github.com/HMarcoNasi/TRAE-Skills) | 150+ focused AI skills for code generation, templates, scripts, and advanced orchestration. |
+| [**AI-Skills**](https://github.com/MarcoNasi/AI-Skills) | 150+ focused AI skills for code generation, templates, scripts, and advanced orchestration. |
 | [**TRAE-Tips**](https://github.com/MarcoNasi/TRAE-Tips) | Curated best practices, optimization strategies, and community contributions for the TRAE ecosystem. |
 | [**fossbilling-theme-modern**](https://github.com/MarcoNasi/fossbilling-theme-modern) | Clean, modern, responsive theme for FOSSBilling – elegant UI and improved UX. |
-| [**Discord-Bot-Server-Backup**](https://github.com/MarcoNasi/Discord-Bot-Server-Backup) | Powerful Discord bot that automatically backs up messages, media, roles, and member data. |
-| [**TICU**](https://github.com/MarcoNasi/TICU) | A vision for how startups can scale globally by creating what doesn't exist yet and making it accessible to everyone. |
 
 ---
 
@@ -71,27 +58,13 @@ I build **production‑grade AI systems**, lead **YecoAI** (an AI research & pro
 
 ## 🌐 Connect & Collaborate
 
-- **Website**: [highmark.it](https://highmark.it)
+- **Website**: [yecoai.com](https://yecoai.com)
 - **LinkedIn**: [Marco Nasi](https://linkedin.com/in/marco-nasi-it)
 - **Discord**: `highmark_31`
 - **Telegram**: `@HighMark31`
 
 ---
 
-## 📖 Philosophy
+## Get in touch
 
-> *“Code is poetry. AI is the future. Security is not optional.”*
-
-I believe in:
-- **Quality over Quantity** – Well‑architected, maintainable code.
-- **Continuous Learning** – Staying ahead of tech trends.
-- **Security First** – Building with security as a core principle.
-- **Collaboration** – Open source contributions and community engagement.
-- **Innovation** – Exploring cutting‑edge technologies like AI agents and LLMs.
-
----
-
-## ⭐ Let's build something amazing together!
-
-I'm open to collaborations on **AI**, **web development**, and **cybersecurity** projects.  
-Feel free to reach out!
+Open to partnerships on reliable and secure AI infrastructure — reach out via [yecoai.com](https://yecoai.com) or LinkedIn.
